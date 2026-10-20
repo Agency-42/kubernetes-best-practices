@@ -33,3 +33,7 @@ When something is already on fire, see our upcoming troubleshooting field guide,
 Issues and PRs are welcome. If you know a better way to do something, tell us.
 
 Website: https://agency42.se · LinkedIn: https://www.linkedin.com/company/agency42ab
+
+## About Agency 42
+
+Agency 42 is based in Svedala, Skåne. Need hands-on help? See our [Kubernetes-konsult i Skåne](https://agency42.se/kubernetes-konsult-skane) and [DevSecOps-konsult](https://agency42.se/devops-secops) pages (Swedish).
